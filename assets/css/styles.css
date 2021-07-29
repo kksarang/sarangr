@@ -314,7 +314,7 @@ input {
 .home__data-title, 
 .home__social-link, 
 .home__info {
-  color: var(--white-color);
+  color: rgb(255, 255, 255);
 }
 
 .home__data-subtitle {
